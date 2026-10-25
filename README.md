@@ -1,7 +1,7 @@
 # Hiba Arbaoui
 
 **Big Data & AI Engineering Student**
-Artificial Intelligence · NLP · Machine Learning
+Artificial Intelligence · NLP · Machine Learning · Computer vision
 
 ---
 
