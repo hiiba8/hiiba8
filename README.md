@@ -15,7 +15,7 @@ I'm an engineering student interested in building practical AI and data-driven a
 
 ## Tech
 
-Python · PyTorch · Hugging Face · FastAPI · CrewAI · Ollama
+Python · PyTorch · Hugging Face · FastAPI · CrewAI · Ollama · SQL · Spark · Hive
 
 ## Contact
 
